@@ -1,0 +1,17 @@
+C:\Users\Mertf\OneDrive\Belgeler\VisualStudioProjeler\Solution1\Lecture5\Infrastructure\Productify.Persistent\bin\Debug\net7.0\Productify.Persistent.deps.json
+C:\Users\Mertf\OneDrive\Belgeler\VisualStudioProjeler\Solution1\Lecture5\Infrastructure\Productify.Persistent\bin\Debug\net7.0\Productify.Persistent.dll
+C:\Users\Mertf\OneDrive\Belgeler\VisualStudioProjeler\Solution1\Lecture5\Infrastructure\Productify.Persistent\bin\Debug\net7.0\Productify.Persistent.pdb
+C:\Users\Mertf\OneDrive\Belgeler\VisualStudioProjeler\Solution1\Lecture5\Infrastructure\Productify.Persistent\bin\Debug\net7.0\Productify.Domain.dll
+C:\Users\Mertf\OneDrive\Belgeler\VisualStudioProjeler\Solution1\Lecture5\Infrastructure\Productify.Persistent\bin\Debug\net7.0\Productify.Domain.pdb
+C:\Users\Mertf\OneDrive\Belgeler\VisualStudioProjeler\Solution1\Lecture5\Infrastructure\Productify.Persistent\obj\Debug\net7.0\Productify.Persistent.csproj.AssemblyReference.cache
+C:\Users\Mertf\OneDrive\Belgeler\VisualStudioProjeler\Solution1\Lecture5\Infrastructure\Productify.Persistent\obj\Debug\net7.0\Productify.Persistent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mertf\OneDrive\Belgeler\VisualStudioProjeler\Solution1\Lecture5\Infrastructure\Productify.Persistent\obj\Debug\net7.0\Productify.Persistent.AssemblyInfoInputs.cache
+C:\Users\Mertf\OneDrive\Belgeler\VisualStudioProjeler\Solution1\Lecture5\Infrastructure\Productify.Persistent\obj\Debug\net7.0\Productify.Persistent.AssemblyInfo.cs
+C:\Users\Mertf\OneDrive\Belgeler\VisualStudioProjeler\Solution1\Lecture5\Infrastructure\Productify.Persistent\obj\Debug\net7.0\Productify.Persistent.csproj.CoreCompileInputs.cache
+C:\Users\Mertf\OneDrive\Belgeler\VisualStudioProjeler\Solution1\Lecture5\Infrastructure\Productify.Persistent\obj\Debug\net7.0\Productify.Persistent.csproj.CopyComplete
+C:\Users\Mertf\OneDrive\Belgeler\VisualStudioProjeler\Solution1\Lecture5\Infrastructure\Productify.Persistent\obj\Debug\net7.0\Productify.Persistent.dll
+C:\Users\Mertf\OneDrive\Belgeler\VisualStudioProjeler\Solution1\Lecture5\Infrastructure\Productify.Persistent\obj\Debug\net7.0\refint\Productify.Persistent.dll
+C:\Users\Mertf\OneDrive\Belgeler\VisualStudioProjeler\Solution1\Lecture5\Infrastructure\Productify.Persistent\obj\Debug\net7.0\Productify.Persistent.pdb
+C:\Users\Mertf\OneDrive\Belgeler\VisualStudioProjeler\Solution1\Lecture5\Infrastructure\Productify.Persistent\obj\Debug\net7.0\ref\Productify.Persistent.dll
+C:\Users\Mertf\OneDrive\Belgeler\VisualStudioProjeler\Solution1\Lecture5\Infrastructure\Productify.Persistent\bin\Debug\net7.0\Productify.Persistent.runtimeconfig.json
+C:\Users\Mertf\OneDrive\Belgeler\VisualStudioProjeler\Solution1\Lecture5\Infrastructure\Productify.Persistent\obj\Debug\net7.0\Productify.Persistent.genruntimeconfig.cache
